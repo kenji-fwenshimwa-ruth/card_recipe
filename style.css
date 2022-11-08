@@ -1,0 +1,41 @@
+* {
+    background-color: aqua;
+    border-radius: 3px;
+    
+} 
+
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-size: large;
+    padding: 8px;
+    margin:80px;
+}
+
+ul {
+    
+    border: 2px solid black;
+    font-size: large;
+    font-weight: 200;
+}
+
+.images{
+    display: flex;
+    padding: 40px;
+    
+
+}
+
+.pictures {
+    margin: auto;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+
+
+
